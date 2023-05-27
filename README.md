@@ -24,7 +24,7 @@ print(key)
 ```
 db.delete("key_name")
 ```
-# To add a array and a list
+# To add a array or a list
 ```
 db.sadd("hi","hello1")
 db.sadd("hi","hello2")
